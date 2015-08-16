@@ -6,7 +6,7 @@
     
     <div class="inner">
         <section class="copyright"> &copy; <?php $this->options->title() ?> 2014 - <?php echo date('Y'); ?></section>
-        <section class="poweredby">Powered by <a target="_blank" href="http://typecho.org/">Typecho</a> and Theme by <a target="_blank" href="https://github.com/yuche/hexo-theme-kael">Kael</a> & <a target="_blank" href="https://www.hello1995.com/">Lin</a></section>
+        <section class="poweredby">Powered by <a target="_blank" href="http://typecho.org/">Typecho</a> and Theme by <a target="_blank" href="https://github.com/yuche/hexo-theme-kael">Yuche</a> & <a target="_blank" href="https://github.com/1995LZH/Typecho-theme-Kael">Lin</a></section>
     </div>
 </footer>
 </div>

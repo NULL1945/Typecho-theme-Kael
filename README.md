@@ -1,5 +1,5 @@
 # Kael  
-A simple theme for [Typecho](http://typecho.org). This theme is migrated from [yuche](https://github.com/yuche/)'s the Hexo theme [Kael](https://github.com/yuche/hexo-theme-kael).Special thanks to [yuche](https://github.com/yuche/). If you like this theme, 'Star' this project and share it with your friends! :P
+A simple theme for [Typecho](http://typecho.org). This theme is migrated from [yuche](https://github.com/yuche/)'s the Hexo theme [Kael](https://github.com/yuche/hexo-theme-kael).Thanks [yuche](https://github.com/yuche/). If you like this theme, 'Star' this project and share it with your friends! :P
 [More...](https://github.com/yuche/hexo-theme-kael) Or [Preview](https://www.hello1995.com/)  
 
 ---  
